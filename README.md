@@ -4,7 +4,7 @@
 
 **`UI/UX Developer`**
 
-Just a heads up, a lot of people told me I'm a hater 🙄🙄🙄. Yes, I'm a hater of bad design and emotionally attached to UI that has easy and comfortable UX. I will quietly redesign bad UX in my head (and probably in Figma, mostly I also walk around while thinking...). My focus and expertise is on frontend development — Vue, React, CSS (Sass is also awesome) — but I’m not afraid to peek behind the curtain with some backend stuff when needed.
+Just a heads up, a lot of people told me that I'm a hater 🙄🙄🙄. Yes, I'm a hater for bad design 😎 and emotionally attached to UI that has easy and comfortable UX 🤩. I will quietly redesign bad UX in my head 🤔  (and probably in Figma, mostly I also walk around while thinking... 🏃‍➡️). My focus and expertise is on frontend development — Vue, React, CSS (Sass is also awesome) — but I’m not afraid to peek behind the curtain with some backend stuff when needed.
 
   #### Currently Working at
    
