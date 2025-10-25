@@ -1,6 +1,6 @@
 <!-- bio and stats -->
 
-# Hello 🙂‍↔️, I'm Kelvin (Toti)
+# Hello I'm Kelvin (Toti)
 
 **`UI/UX Developer`**
 
@@ -41,10 +41,10 @@ Just a heads up, a lot of people told me that I'm a hater 🙄🙄🙄. Yes, I'm
 
 #### Interest Level:
 
-#### Web Development (50%)
+#### Web Development (70%)
 ![70%](https://progress-bar.xyz/70)
 
-#### Data Analytics / Science (30%)
+#### Data Analytics / Science (40%)
 ![40%](https://progress-bar.xyz/40)
 
 #### Cybersecurity (30%)
